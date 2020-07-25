@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\arquivos\1faculdade\faculdade\3 semestre\jean\20-02\trabequipe\trabequipe\source.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\arquivos\1faculdade\faculdade\3 semestre\jean\20-02\trabequipe\trabequipe\source.cpp(16): error C4700: uninitialized local variable 'r' used

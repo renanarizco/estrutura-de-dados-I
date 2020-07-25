@@ -1,0 +1,6 @@
+﻿  calculando_posfixa.cpp
+d:\arquivos\faculdade\faculdade\3 semestre\jean\12 - 06-05\calculando_posfixa\calculando_posfixa\calculando_posfixa.cpp(42): warning C4018: '<': incompatibilidade de signed/unsigned
+d:\arquivos\faculdade\faculdade\3 semestre\jean\12 - 06-05\calculando_posfixa\calculando_posfixa\calculando_posfixa.cpp(63): warning C4244: 'argumento': conversão de 'float' para 'char', possível perda de dados
+d:\arquivos\faculdade\faculdade\3 semestre\jean\12 - 06-05\calculando_posfixa\calculando_posfixa\calculando_posfixa.cpp(71): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+d:\arquivos\faculdade\faculdade\3 semestre\jean\12 - 06-05\calculando_posfixa\calculando_posfixa\calculando_posfixa.cpp(35): warning C4715: 'calcular_operacao': nem todos os caminhos de controle retornam um valor
+  calculando_posfixa.vcxproj -> D:\Arquivos\Faculdade\Faculdade\3 SEMESTRE\jean\12 - 06-05\calculando_posfixa\Debug\calculando_posfixa.exe

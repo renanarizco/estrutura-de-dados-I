@@ -1,0 +1,3 @@
+﻿  pilha_ponteiro.cpp
+c:\users\windows 10\desktop\pilha_ponteiro\pilha_ponteiro\pilha_ponteiro.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  pilha_ponteiro.vcxproj -> C:\Users\Windows 10\Desktop\pilha_ponteiro\Debug\pilha_ponteiro.exe

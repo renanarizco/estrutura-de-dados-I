@@ -1,0 +1,3 @@
+﻿  aps01.cpp
+g:\arquivos\1faculdade\faculdade\3 semestre\jean\aps\aps01\aps01\aps01.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  aps01.vcxproj -> G:\Arquivos\1Faculdade\Faculdade\3 SEMESTRE\jean\APS\aps01\Debug\aps01.exe

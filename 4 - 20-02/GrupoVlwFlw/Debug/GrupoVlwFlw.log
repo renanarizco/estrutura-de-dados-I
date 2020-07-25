@@ -1,0 +1,3 @@
+﻿  GrupoVlwFlw.cpp
+c:\users\unifafibe\source\repos\grupovlwflw\grupovlwflw\grupovlwflw.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GrupoVlwFlw.vcxproj -> C:\Users\Unifafibe\source\repos\GrupoVlwFlw\Debug\GrupoVlwFlw.exe

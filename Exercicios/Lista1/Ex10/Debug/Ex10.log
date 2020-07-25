@@ -1,0 +1,5 @@
+﻿  Ex10.cpp
+g:\arquivos\1faculdade\faculdade\3 semestre\jean\exercicios\lista1\ex10\ex10.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+g:\arquivos\1faculdade\faculdade\3 semestre\jean\exercicios\lista1\ex10\ex10.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+g:\arquivos\1faculdade\faculdade\3 semestre\jean\exercicios\lista1\ex10\ex10.cpp(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Ex10.vcxproj -> G:\Arquivos\1Faculdade\Faculdade\3 SEMESTRE\jean\Exercicios\Lista1\Debug\Ex10.exe

@@ -1,0 +1,3 @@
+﻿  aps04.cpp
+g:\arquivos\faculdade\faculdade\3 semestre\jean\aps\aps04\aps04\aps04.cpp(9): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  aps04.vcxproj -> G:\Arquivos\Faculdade\Faculdade\3 SEMESTRE\jean\APS\aps04\Debug\aps04.exe

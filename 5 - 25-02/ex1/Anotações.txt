@@ -1,0 +1,40 @@
+Pilha
+Conjunto ordenado de itens, container de dados
+Consegue inserir e remover elementos, possibilidade de inserir e remover acontece pelo topo.
+É do tipo LIFO, last in first out (ultimo a entrar é o primeiro a sair)
+Inserir - PUSH
+Remover - POP
+Pode ficar cheia, muda a escolha pela estrutura.
+Está vazia quando a base = topo.
+Cheia > topo == max
+Vazia > base == topo
+push (p << nome da pilha, A << valor a ser inserido)
+push (p, B)
+push (p, C)
+//Não da pra tirar nenhum valor especifico, somente do topo.
+pop (p) //tira o valor C, do topo.
+a BASE sempre vale 0.
+o topo muda de acordo com o tanto de valores incluidos, 3 valores seria topo = 3
+
+Infixa:
+Jeito convencional de fazer calculos
+1- a+b*c
+2- a*(b+c)
+3- (a+b)/(c-d)
+4- (a+b)/(c-d)*e
+
+
+Posfixa:
+jeito que o computador entende calculos (os operadores vem sempre após os operandos)
+Ordem dos operandos nunca pode ser modificada
+Na posfixa não pode ter parenteses
+1- abc*+
+2- abc+*
+3- ab+cd-/
+4- ab+cd-/e*
+
+Exemplos:
+1- 5 4 + 7 * 2 1 + / = ((5+4) *7) / (2+1) = 21
+2- (a*b + (c+d)) * (e+f) = ab* cd+ + ef+ *
+3- 1 3 + 2 4 - + 7 6 + 7 8 - - * = ((1+3) + (2-4)) * ((7+6) - (7-8)) = 28
+4 - (a*b)+(c*d) = ab* cd* + 

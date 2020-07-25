@@ -1,0 +1,6 @@
+﻿  Ex5.cpp
+g:\arquivos\1faculdade\faculdade\3 semestre\jean\exercicios\lista1\ex5\ex5.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+g:\arquivos\1faculdade\faculdade\3 semestre\jean\exercicios\lista1\ex5\ex5.cpp(13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+g:\arquivos\1faculdade\faculdade\3 semestre\jean\exercicios\lista1\ex5\ex5.cpp(16): warning C4305: '=': truncation from 'double' to 'float'
+g:\arquivos\1faculdade\faculdade\3 semestre\jean\exercicios\lista1\ex5\ex5.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Ex5.vcxproj -> G:\Arquivos\1Faculdade\Faculdade\3 SEMESTRE\jean\Exercicios\Lista1\Debug\Ex5.exe

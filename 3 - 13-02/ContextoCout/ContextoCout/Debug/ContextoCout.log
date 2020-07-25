@@ -1,0 +1,5 @@
+﻿  ContextoCout.cpp
+d:\arquivos\1faculdade\faculdade\3 semestre\jean\13-02\contextocout\contextocout\contextocout.cpp(7): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+d:\arquivos\1faculdade\faculdade\3 semestre\jean\13-02\contextocout\contextocout\contextocout.cpp(27): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+d:\arquivos\1faculdade\faculdade\3 semestre\jean\13-02\contextocout\contextocout\contextocout.cpp(54): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  ContextoCout.vcxproj -> D:\Arquivos\1Faculdade\Faculdade\3 SEMESTRE\jean\13-02\ContextoCout\Debug\ContextoCout.exe

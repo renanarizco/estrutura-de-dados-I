@@ -1,0 +1,7 @@
+calcular expressao 30 simbolos
+
+fazer em notas de aula
+
+((5 4 +) 3 -) ((7 2 *) (6 2 $) -) (8 3 -) (4 4 *)
+   .      .      .        .          .       .
+       .              .
